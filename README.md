@@ -1,0 +1,2 @@
+# ToDeskPassReader
+静默安装ToDesk隐藏窗口并发送至指定邮箱
